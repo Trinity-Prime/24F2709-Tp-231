@@ -1,1 +1,2 @@
 # 24F2709-SOH TANKOU joël valdo 
+En faisant ce programme pour vérifier si un tableau est trié, j’ai eu un peu de mal au début à trouver la logique pour comparer chaque élément avec le suivant et à penser aux cas particuliers (tableau vide ou avec un seul élément). Le programme parcourt le tableau et vérifie que chaque valeur est bien inférieure ou égale à la suivante. S’il y a une erreur, il indique que le tableau n’est pas trié, sinon il confirme qu’il l'est.
